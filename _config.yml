@@ -1,0 +1,28 @@
+name: Arcade
+favicon: null
+layout_spectrum: 0.8602411153260618
+typography_spectrum: 0.11898164893500507
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.22943356889300048
+  lightness: 0.4286215880420059
+  saturation: 0.22598553774878383
+  rhythmicContrast: 0.5007738899439573
+purpose: []
